@@ -40,5 +40,5 @@ or you can do this and join component that you needed acordingly
 <b>- upload the program that i given to here</b><br>
 <b>- create repo,create device and setup the blynk properly..</b><br>
 <b>- Thats it...[make sure your controler device and NodeMcu connected to same wifi connection.]</b><br>
-## THANK YOU, HAVE FUN !!
+## THANK YOU, HAVE FUN !!!
 ![thank you git hub](https://github.com/MaitreyThakar/Home-Automation-IoT/assets/118554436/d1d99c2e-1c74-408a-8b4a-fa8ff6a819dc)
